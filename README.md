@@ -1,4 +1,4 @@
-<h1 align="center"> # Página de login Instagram # </h1>
+<h1 align="center"> { Página de login Instagram } </h1>
 <p align="center"> Reconstrução da interface de login do Instagram WEB</p>
 
 <p align="center">
@@ -29,9 +29,9 @@ Como também um excelente editor de códigos:  [VSCode](https://code.visualstudi
 ### Recursos
 
 - [x] Interface Front-END da página de login;
-- []  Interface Front-END da página de cadastro;
-- []  Conexão com Banco de Dados;
-- []  Back-End
+- [ ] Interface Front-END da página de cadastro;
+- [ ] Conexão com Banco de Dados;
+- [ ] Back-End
 
 ### 🛠 Tecnologias
 
